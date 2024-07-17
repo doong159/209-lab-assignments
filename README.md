@@ -1,4 +1,4 @@
-# 209-lab-assignments
+# 209-Lab-Assignments
 
 My name is Eedong Jeong. I am at University.
 
