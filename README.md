@@ -1,4 +1,4 @@
 # 209-lab-assignments
-Eedong Jeong zzzzzzzzzz
+Eedong Jeong 
 
-kms 
+Team members can use Github to collaborate.
